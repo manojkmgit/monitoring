@@ -18,6 +18,8 @@ vi prometheus.yml
  ./prometheus --config.file=prometheus.yml
  ```
  
-# validating installation 
+# Validating installation 
 You can verify that Prometheus is serving metrics about itself by navigating to its metrics endpoint: localhost:9090/metrics
 
+
+# Using the expression browser - Refer to slide deck 
