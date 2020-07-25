@@ -1,6 +1,6 @@
 # Installing Prometheus
 ```sh
-wget wget https://github.com/prometheus/prometheus/releases/download/v2.20.0/prometheus-2.20.0.linux-amd64.tar.gz
+wget https://github.com/prometheus/prometheus/releases/download/v2.20.0/prometheus-2.20.0.linux-amd64.tar.gz
 tar xvfz prometheus-*.tar.gz
 cd prometheus-2.20.0.linux-amd64/
 ```
