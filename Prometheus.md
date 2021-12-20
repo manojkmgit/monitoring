@@ -11,7 +11,7 @@ sudo mv consoles/ console_libraries/ /etc/prometheus/
 
 # Configure Prometheus
 ```sh
-vi prometheus.yml 
+sudo vi /etc/prometheus/prometheus.yml 
 ```
 
 # Start Prometheus Server on default port 9090
