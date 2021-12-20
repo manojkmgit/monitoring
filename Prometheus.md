@@ -16,7 +16,7 @@ vi prometheus.yml
 
 # Start Prometheus Server on default port 9090
 ```sh
- ./prometheus --config.file=/etc/prometheus/prometheus.yml
+ prometheus --config.file=/etc/prometheus/prometheus.yml
  ```
  
 # Validating installation 
